@@ -5,7 +5,8 @@
 I will try to keep these up to date as I discover new resources and learn more about this space. Pull requests welcome.
 
 # What is Self-Sovereign Identity?
-"Lifetime portable identity for and person, organisation, or thing that does not depend on any centralised authority and cannot be taken away" - Drummond Reed, Chief Trust Officer Evernym
+"Lifetime portable identity for and person, organisation, or thing that does not depend on any centralised authority and cannot be taken away" - Drummond Reed, Chief Trust Officer Evernym 
+
 For a great introductory video watch [The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org](https://www.youtube.com/watch?v=RllH91rcFdE)
 
 # Decentralised Identifiers (DID)
