@@ -1,6 +1,6 @@
 # Self-Sovereign-Identity-Resouces
 
-# Goal: To share useful resources about self-sovereign identity
+# Goal: To share useful resources about Self-Sovereign Identity
 
 I will try to keep these up to date as I discover new resources and learn more about this space. Pull requests welcome.
 
