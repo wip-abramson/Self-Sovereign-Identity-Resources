@@ -65,4 +65,6 @@ Interesting projects working to develop self-sovereign identity solutions.
 * [MyData](https://mydata2018.org/)
 * [Rebooting the Web of Trust](http://www.weboftrust.info/index.html)
 * [SSI Meetup - Regular SSI Webinars](http://ssimeetup.org/)
+* [Identity Insurance Consortium](https://identityinsurance.org/)
+* [The Internet of Agreements](http://internetofagreements.com/)
 
