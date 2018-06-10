@@ -35,6 +35,7 @@ Papers and whitepapers describing aspects of SSI
 
 # Articles
 * [The Path to Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
+* [The Three Models of Digital Identity Relationships](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186)
 * [A blockchain solution for Identity](https://medium.com/humanizing-the-singularity/a-blockchain-solution-for-identity-51fbcae94caa)
 * [Multi-source Identity](http://www.windley.com/archives/2018/05/multi-source_identity.shtml)
 * [How Sovrin Works](https://blog.sovrin.org/how-sovrin-works-a1dff156c68e)
