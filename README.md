@@ -1,4 +1,4 @@
-# Self-Sovereign-Identity-Resouces
+# Self-Sovereign-Identity-Resources
 
 # Goal: To share useful resources about Self-Sovereign Identity
 
