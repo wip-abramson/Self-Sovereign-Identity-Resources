@@ -44,6 +44,7 @@ Papers and whitepapers describing aspects of SSI
 * [Tell Me Who You Are - a look at identity and biometrics](https://medium.com/humanizing-the-singularity/part-i-are-you-sure-you-exist-we-are-5cfe13ab488c)
 * [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)
 * [Self-Sovereign Identity - A Guide to Privacy for your Digital Identity with Blockchain](https://medium.com/@AlexPreukschat/self-sovereign-identity-a-guide-to-privacy-for-your-digital-identity-5b9e95677778)
+* [Self-Sovereign Identity: Unravelling the Terminology](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-unraveling-the-terminology/)
 
 # Videos
 * [Decentralised Identity, Distilled - Hyperledger](https://gateway.on24.com/wcc/gateway/linux/1101876/1678323/decentralized-identity-distilled)
@@ -70,6 +71,8 @@ Interesting projects working to develop self-sovereign identity solutions.
 * [Civic](https://www.civic.com/)
 * [ID.me](https://www.id.me/)
 * [UN Blockchain, Blockchain for Humanity Global Challenge](https://un-blockchain.org/2017/11/10/blockchain-for-humanity-global-challenge/)
+* [ID 2020](https://id2020.org/)
+* [The Better Identity](https://www.betteridentity.org/)
 
 # Conferences / Meetups / Communities
 
@@ -80,5 +83,7 @@ Interesting projects working to develop self-sovereign identity solutions.
 * [Identity Insurance Consortium](https://identityinsurance.org/)
 * [The Internet of Agreements](http://internetofagreements.com/)
 * [Identiverse](https://identiverse.com/)
+* [European Identity & Cloud Conference](https://www.kuppingercole.com/events/eic2018)
+
 
 
